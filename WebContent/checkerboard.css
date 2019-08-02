@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0px;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+.colorA {
+	background: #b32eb3;
+	height: 60px;
+	width: 60px;
+}
+
+.colorB {
+	background: #3512ff;
+	height: 60px;
+	width: 60px;
+}
